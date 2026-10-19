@@ -23,8 +23,9 @@ Remember that the output of an op-amp is limited by the supply voltage, this is 
 
 $$
 R_I = \infty \\
-R_0 = 0 \\
+R_{out} = 0 \\
 A = \infty \\
+A_{input} = B_{input}
 
 $$
 
@@ -38,5 +39,27 @@ $$
 	\therefore \\
 	\frac{R_f}{R_i} = \frac{V_{in}}{V_{out}}(?) \\
 $$
+
+
+# Flashcards
+#flashcards/eee/circuit_theory 
+
+What is the approximate gain of a regular op-amp, and what is the usual range of gain of an op-amp?
+?
+$$
+A_{aprox} = \infty \\[13pt]
+A_{range} = 10^4 - 10^6 \\[13pt]
+$$
+<!--SR:!2026-10-22,3,250-->
+
+What are the four assumptions that you can make for an op-amp's characteristics in regular working conditions?
+?
+$$
+R_I = \infty \\
+R_{out} = 0 \\
+A = \infty \\
+A_{input} = B_{input}
+$$
+<!--SR:!2026-10-22,3,250-->
 
 

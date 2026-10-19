@@ -49,3 +49,20 @@ and we can do a simple voltage divider equation to show that the Vrl is 2V
 
 ![[Pasted image 20261014171254.png]]
 
+# Flashcards
+#flashcards/eee/circuit_theory
+What are the steps for calculating the Thevnin Equivalent circuit?
+?
+1. Remove the circuit element that you wish to find the current in, or voltage across
+2. Calculate the voltage produced by the remaining circuit across the open-circuited terminals of the removed element, the calculated voltage is the Thévenin voltage.
+3. Zero voltage and current sources and calculate Thévenin resistance looking back into open-circuited terminals.
+4. The Thévenin equivalent circuit is then added to removed element to calculate it's operating conditions.
+<!--SR:!2026-10-21,2,230-->
+
+
+What is Thevnin's Theorem?
+?
+Any complicated linear circuit can be simplified into an equivalent circuit comprising only of one source and one resistor.
+<!--SR:!2026-10-27,8,250-->
+
+

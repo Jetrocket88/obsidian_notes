@@ -12,7 +12,7 @@ Practical voltage and current sources do not provide absolutely constant values 
 
 Fig.1 (a) Voltage- and (b) current-source equivalent circuits reflect fall in terminal values with increased loading.
 
-Terminal voltage and current are given for sources by Eq.1 and 2, which show that: 
+	Terminal voltage and current are given for sources by Eq.1 and 2, which show that: 
 1. as voltage-source current increases, internal voltage drop ILRS increases (see Eq.1), and 
 2. as current-source voltage increases, higher current VL /RS  is diverted into source resistance (see Eq.2). 
 
@@ -37,10 +37,44 @@ You can see that as the current increases, the voltage drops, as predicted. We c
 $$
 R_s = \frac{\Delta V_L}{\Delta I_L}
 $$
+# Flashcards
+#flashcards/eee/circuit_theory 
+
+If we have the Voltage (Y) Vs. Current(X) graph of a non ideal source, how do you calculate the
+internal resistance of the source?
+![[Pasted image 20261014165453.png]]
+?
+$$
+R_s = \frac{\Delta V_L}{\Delta I_L}
+$$
+<!--SR:!2026-10-21,2,230-->
+
+What is the equation for the load voltage of an non ideal voltage source?
+?
+$$
+V_L = V_S - I_L R_S      \\[13pt]
+$$
+<!--SR:!2026-10-21,2,230-->
 
 
+What is the equation for the load current of an non ideal current source?
+?
+$$
+I_L = I_S - \frac{V_L}{R_L} \\[13pt]
+$$
+<!--SR:!2026-10-20,1,210-->
 
+What is the main characteristic of a practical source compared to an idea source?
+?
+Practical voltage and current sources do not provide absolutely constant values of terminal voltage or current.
+<!--SR:!2026-10-21,2,230-->
 
+Why does the voltage output drop slightly of a practical voltage source when the load current increases?
+?
+Because the voltage source has an internal resistance, when the current increases, the voltage across the internal resistance increases (due to V=IR), which causes the drop in output voltage.
+<!--SR:!2026-10-26,7,250-->
 
-
-
+Why does the current output drop slightly of a practical current source when the load voltage increases?
+?
+Because the current source has an internal resistance, when the voltage increases this causes the current draw from the internal resistance to increase, causing the output current to wane.
+<!--SR:!2026-10-28,9,250-->

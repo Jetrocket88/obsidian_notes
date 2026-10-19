@@ -39,6 +39,27 @@ I_T = 70mA \\[10pt]
 $$
 
 
+# Flashcards
+#flashcards/eee/circuit_theory
+
+
+What is the equation for Kirchhoff's voltage law?
+?
+$$
+0 = V_1 + V_2 + V_3 + \ldots
+$$
+<!--SR:!2026-10-27,8,250-->
+
+What is the equation for Kirchhoff's current law?
+?
+$$
+\sum I = 0\\
+$$
+<!--SR:!2026-10-26,7,250-->
+
+
+
+
 
 
 

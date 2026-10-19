@@ -25,7 +25,11 @@ P_{max} = \frac{36}{16000} \\[10pt]
 P_{max} = 2.25mW \\[10pt]
 $$
 
-
-
+# Flashcards
+#flashcards/eee/circuit_theory
+How do we prove the maximum power theorem?
+?
+To determine the value of RL that maximises load power, PL must be differentiated with respect to RL and set to zero.
+<!--SR:!2026-10-19,0,230-->
 
 
