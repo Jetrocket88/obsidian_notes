@@ -79,35 +79,35 @@ What is the equation for the capacitance of a capacitor involving the area betwe
 $$
 C = \frac{\varepsilon_0\varepsilon_rA}{d}
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-07,5,230-->
 
 What is the equation for the charge stored in a capacitor? (steady state)
 ?
 $$
 Q = CV
 $$
-<!--SR:!2026-10-23,4,270-->
+<!--SR:!2026-11-10,10,270-->
 
 What is the time sensitive equation for the current flowing through a capacitor?
 ?
 $$
 i = C \frac{dv}{dt}
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-07,5,230-->
 
 What is the equation for total capacitance of capacitors connected in series?
 ?
 $$
 \frac{1}{C_S} = \frac{1}{C_1} + \frac{1}{C_2} +\frac{1}{C_3} + \dots
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-08,8,250-->
 
 What is the equation for total capacitance of capacitors connected in parallel?
 ?
 $$
 C_p = C_1 + C_2 + C_3 + \dots
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-08,8,250-->
 
 What is one of the special properties of capacitors connected in series?
 ?
@@ -115,13 +115,13 @@ The capacitors all charge at the same rate (current in a series circuit is the s
 $$
 q = C_1v_1 = C_2v_2 = C_3v_3
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-09,9,250-->
 
 
 What is one of the special properties of capacitors connected in parallel?
 ?
 The capacitors all have the same rate of change of voltage (total voltage is the same in parallel branches)
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-08,8,250-->
 
 What is the difference between the capacitor voltage division equation and the resistance voltage
 division equation? Only when the capacitors all start with the same stored charge (equal or none)
@@ -130,13 +130,13 @@ The capacitor voltage division equation is the same, but all the values of capac
 $$
 V_n = V_S \frac{1/C_n}{1/C_1 + 1/C_2 + \dots}
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-09,9,250-->
 
 What does it mean for a capacitor circuit to be "steady state?"
 ?
 This happens when the capacitor voltage has settled to a constant value and transient current has
 decayed to zero. Capital letters are used to represent steady state levels, as well as DC quantities.
-<!--SR:!2026-10-20,1,230-->
+<!--SR:!2026-11-07,5,230-->
 
 What is the convention for writing time varying quantities?
 ?
@@ -145,7 +145,7 @@ $$
 	Q = CV \\[13pt]
 	q = Cv
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-11,11,270-->
 
 When does current flow through a capacitor? How does it act when there is no voltage drop? why?
 ?
@@ -154,18 +154,18 @@ $$
 i = C\frac{dv}{dt}
 $$
 When there is no voltage drop, there is no current flow.
-<!--SR:!2026-10-20,1,230-->
+<!--SR:!2026-11-03,3,250-->
 
 When there are rapidly changing voltages, how does a capacitor behave?
 ?
 Like a short circuit (high current, low resistance)
-<!--SR:!2026-10-22,3,250--> 
+<!--SR:!2026-11-07,7,250--> 
 
 Once the capacitor has fully charged, what state is it said to be in?
 ?
 Steady state, with a constant change of voltage, so no current. Effectively an open circuit.
 Capacitor behaves like an open-circuit to DC (constant voltage)
-<!--SR:!2026-10-20,1,230-->
+<!--SR:!2026-11-07,5,230-->
 
 
 

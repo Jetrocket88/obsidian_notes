@@ -48,14 +48,14 @@ What is the equation for Kirchhoff's voltage law?
 $$
 0 = V_1 + V_2 + V_3 + \ldots
 $$
-<!--SR:!2026-10-27,8,250-->
+<!--SR:!2026-11-19,19,250-->
 
 What is the equation for Kirchhoff's current law?
 ?
 $$
 \sum I = 0\\
 $$
-<!--SR:!2026-10-26,7,250-->
+<!--SR:!2026-11-18,18,250-->
 
 
 

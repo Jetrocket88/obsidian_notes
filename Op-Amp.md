@@ -50,7 +50,7 @@ $$
 A_{aprox} = \infty \\[13pt]
 A_{range} = 10^4 - 10^6 \\[13pt]
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-07,7,250-->
 
 What are the four assumptions that you can make for an op-amp's characteristics in regular working conditions?
 ?
@@ -60,6 +60,6 @@ R_{out} = 0 \\
 A = \infty \\
 A_{input} = B_{input}
 $$
-<!--SR:!2026-10-22,3,250-->
+<!--SR:!2026-11-07,7,250-->
 
 

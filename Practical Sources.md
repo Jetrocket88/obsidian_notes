@@ -47,14 +47,14 @@ internal resistance of the source?
 $$
 R_s = \frac{\Delta V_L}{\Delta I_L}
 $$
-<!--SR:!2026-10-21,2,230-->
+<!--SR:!2026-11-05,5,230-->
 
 What is the equation for the load voltage of an non ideal voltage source?
 ?
 $$
 V_L = V_S - I_L R_S      \\[13pt]
 $$
-<!--SR:!2026-10-21,2,230-->
+<!--SR:!2026-11-05,5,230-->
 
 
 What is the equation for the load current of an non ideal current source?
@@ -62,19 +62,19 @@ What is the equation for the load current of an non ideal current source?
 $$
 I_L = I_S - \frac{V_L}{R_L} \\[13pt]
 $$
-<!--SR:!2026-10-20,1,210-->
+<!--SR:!2026-11-06,4,210-->
 
 What is the main characteristic of a practical source compared to an idea source?
 ?
 Practical voltage and current sources do not provide absolutely constant values of terminal voltage or current.
-<!--SR:!2026-10-21,2,230-->
+<!--SR:!2026-11-05,5,230-->
 
 Why does the voltage output drop slightly of a practical voltage source when the load current increases?
 ?
 Because the voltage source has an internal resistance, when the current increases, the voltage across the internal resistance increases (due to V=IR), which causes the drop in output voltage.
-<!--SR:!2026-10-26,7,250-->
+<!--SR:!2026-11-17,17,250-->
 
 Why does the current output drop slightly of a practical current source when the load voltage increases?
 ?
 Because the current source has an internal resistance, when the voltage increases this causes the current draw from the internal resistance to increase, causing the output current to wane.
-<!--SR:!2026-10-28,9,250-->
+<!--SR:!2026-11-23,23,250-->

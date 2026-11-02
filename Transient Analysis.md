@@ -1,3 +1,4 @@
+[[Circuit Theory]]
 First order circuit -> One capacitor or one inductor
 Only one energy storage component 
 Equations are given by first order differential equations
