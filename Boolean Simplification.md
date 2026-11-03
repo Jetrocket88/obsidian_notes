@@ -11,13 +11,13 @@ $$
 f = B + A\bar{C}\\[13pt]
 f = \bar{A}B\bar{C} + \bar{A}BC + A\bar{B}\bar{C} + AB\bar{C} + ABC
 $$
-<!--SR:!2026-11-03,1,230-->
+<!--SR:!2026-11-05,2,230-->
 
 What are the two properties about the canonical form?
 ?
 The form is unique for each boolean function
 All terms and expressions contain all variables
-<!--SR:!2026-11-02,0,230-->
+<!--SR:!2026-11-05,2,230-->
 
 What are the two examples of the canonical form that we care about?
 ?

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "339afd5b6c46cf65",
+  "active": "dcb16a9d10e1714c",
   "lastOpenFiles": [
-    "Parity and Errors.md",
     "Addition and Subtraction.md",
+    "Parity and Errors.md",
     "Boolean Simplification.md",
     "Common Forms.md",
     "Digital Electronics.md",

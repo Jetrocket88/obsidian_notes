@@ -154,7 +154,7 @@ $$
 i = C\frac{dv}{dt}
 $$
 When there is no voltage drop, there is no current flow.
-<!--SR:!2026-11-03,3,250-->
+<!--SR:!2026-11-12,9,250-->
 
 When there are rapidly changing voltages, how does a capacitor behave?
 ?

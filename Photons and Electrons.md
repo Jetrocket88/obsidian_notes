@@ -18,14 +18,14 @@ $$
 E = hf \\[12pt]
 h = 6.626 \times 10^-34js
 $$
-<!--SR:!2026-11-03,3,250-->
+<!--SR:!2026-11-12,9,250-->
 
 What is the equation that relates the speed of light to a waves frequency and wavelength?
 ?
 $$
 c = f\lambda
 $$
-<!--SR:!2026-11-03,3,250-->
+<!--SR:!2026-11-10,7,250-->
 
 What is the equation for the momentum of a wave? and what are the implications?
 ?
@@ -34,7 +34,7 @@ p = \frac{h}{\lambda}
 $$
 Block and absorb a beam of light -> absorbing momentum
 Radiation exerts a force -> radiation pressure
-<!--SR:!2026-11-01,1,210-->
+<!--SR:!2026-11-05,2,210-->
 
 
 
