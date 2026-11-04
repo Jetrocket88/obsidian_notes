@@ -30,6 +30,6 @@ $$
 How do we prove the maximum power theorem?
 ?
 To determine the value of RL that maximises load power, PL must be differentiated with respect to RL and set to zero.
-<!--SR:!2026-11-04,2,210-->
+<!--SR:!2026-11-08,4,210-->
 
 

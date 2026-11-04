@@ -11,7 +11,7 @@ What is a sequential circuit?
 ?
 Is where one the output depends on both when the inputs change and what state the system was previously in
 Basically state driven
-<!--SR:!2026-11-04,1,230-->
+<!--SR:!2026-11-06,2,230-->
 
 How many bits per input can a Half-Adder add?
 ?

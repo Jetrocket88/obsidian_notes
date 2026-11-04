@@ -23,7 +23,7 @@ $$
 \frac{\hbar}{2} \\[13pt]
 \hbar = \frac{h}{2\pi}
 $$
-<!--SR:!2026-11-04,1,210-->
+<!--SR:!2026-11-06,2,210-->
 
 What is the equation of force in an electric field?
 ?
@@ -56,7 +56,7 @@ B is the magnetic field
 v is speed (m/s)
 theta is the angle between the velocity and the magnetic field
 The resultant force is perpendicular to v and B
-<!--SR:!2026-11-04,2,230-->
+<!--SR:!2026-11-09,5,230-->
 
 What does theta represent in this equation?
 $$
@@ -72,12 +72,12 @@ F = qvB\sin(\theta)
 $$
 ?
 The resultant force is perpendicular to B and v.
-<!--SR:!2026-11-04,2,210-->
+<!--SR:!2026-11-10,6,230-->
 
 What does coulomb's law describe?
 ?
 It describes the electrostatic interaction between two charged particles.
-<!--SR:!2026-11-04,2,190--> 
+<!--SR:!2026-11-08,4,190--> 
 
 What is the equation for Coulomb's Law?
 ?
@@ -91,7 +91,7 @@ Where, k is a constant,
 $$
 k = 8.99 \times10^9Nm^2/c^2
 $$
-<!--SR:!2026-11-04,1,190-->
+<!--SR:!2026-11-06,2,190-->
 
 
 What can electric fields be used to do to electrons?
@@ -130,7 +130,7 @@ Ground state
 When an electron's energy level changes, what changes about it's position?
 ?
 It's wavefunction changes
-<!--SR:!2026-11-04,1,210-->
+<!--SR:!2026-11-06,2,210-->
 
 Fermions are one of the two primary classes of subatomic particles, what is the other type?
 ?
@@ -145,7 +145,7 @@ Fermions.
 What are the specific quantum properties that fermions have?
 ?
 Fermi-Dirac statistics
-<!--SR:!2026-11-04,2,210-->
+<!--SR:!2026-11-08,4,210-->
 
 What is the Pauli Exclusion Principle?
 ?
@@ -172,7 +172,7 @@ The main energy level or shell in which the electron resides, larger values corr
 What is the angular quantum number?
 ?
 Represents the shape or subshell of an electron's orbital
-<!--SR:!2026-11-04,1,130-->
+<!--SR:!2026-11-05,1,130-->
 
 What is the magnetic quantum number?
 ?
@@ -187,7 +187,7 @@ The intrinsic angular momentum or 'spin' of an electron, one of two possible spi
 What does the Fermi-Dirac function f(E) represent?
 ?
 The probability that a state at energy E is occupied by an electron.
-<!--SR:!2026-11-04,2,230-->
+<!--SR:!2026-11-09,5,230-->
 
 What is the formula for the Fermi-Dirac statistics function?
 ?
@@ -213,12 +213,12 @@ $$£
 In the Fermi-Dirac function, what happens to f(E) when E < E_F?
 ?
 f(E) -> 1, the state is essentially full
-<!--SR:!2026-11-04,2,230-->
+<!--SR:!2026-11-05,1,210-->
 
 In the Fermi-Dirac function, what happens to f(E) when E > E_F?
 ?
 f(E) -> 0, the state is essentially unoccupied
-<!--SR:!2026-11-04,2,210--> 
+<!--SR:!2026-11-05,1,190--> 
 
 In the Fermi-Dirac function, what does the graph look like when T = 0?
 ?
