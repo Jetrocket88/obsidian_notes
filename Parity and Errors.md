@@ -62,7 +62,7 @@ What are the three types of ARQ?
 Stop and Wait
 Go-Back-N
 Selective Repeat
-<!--SR:!2026-11-05,2,230-->
+<!--SR:!2026-11-10,5,230-->
 
 How does Stop and Wait ARQ work?
 ?
@@ -101,7 +101,7 @@ In the event of no-errors, we still had to transmit lots of redundant info
 How do Hybrid Schemes work?
 ?
 They use a mix of FEC and ARQ to save on the amount of redundant data being sent, while providing a fallback when error correction fails.
-<!--SR:!2026-11-05,1,210-->
+<!--SR:!2026-11-07,2,210-->
 
 
 

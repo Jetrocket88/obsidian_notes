@@ -33,12 +33,12 @@ $$
 F Force (N)
 q charge (c)
 E electric field
-<!--SR:!2026-11-05,2,190--> 
+<!--SR:!2026-11-09,4,190--> 
 
 What is the definition for an electric field?
 ?
 Electric fields describe the force experience by a stationary electrically charged particle in space.
-<!--SR:!2026-11-05,2,190-->
+<!--SR:!2026-11-09,4,190-->
 
 What is the definition for a magnetic field?
 ?
@@ -64,7 +64,7 @@ F = qvB\sin(\theta)
 $$
 ?
 theta is the angle between the velocity and the magnetic field (v and B)
-<!--SR:!2026-11-05,2,210-->
+<!--SR:!2026-11-09,4,210-->
 
 What is the angle between the resultant force of this equation?
 $$
@@ -152,7 +152,7 @@ What is the Pauli Exclusion Principle?
 No two identical fermions can occupy the same quantum state simultaneously.
 Two electrons in  an atom, for example, cannot have the same set of quantum numbers
 Consequently, they occupy different electron orbital or energy levels
-<!--SR:!2026-11-05,2,230-->
+<!--SR:!2026-11-10,5,230-->
 
 What is the principle that says no fermions can occupy the same quantum states simultaneously?
 ?
@@ -172,12 +172,12 @@ The main energy level or shell in which the electron resides, larger values corr
 What is the angular quantum number?
 ?
 Represents the shape or subshell of an electron's orbital
-<!--SR:!2026-11-05,1,130-->
+<!--SR:!2026-11-06,1,130-->
 
 What is the magnetic quantum number?
 ?
 The orientation of the orbital in space
-<!--SR:!2026-11-05,2,170-->
+<!--SR:!2026-11-06,1,150-->
 
 What is the spin quantum number?
 ?
@@ -213,12 +213,12 @@ $$£
 In the Fermi-Dirac function, what happens to f(E) when E < E_F?
 ?
 f(E) -> 1, the state is essentially full
-<!--SR:!2026-11-05,1,210-->
+<!--SR:!2026-11-07,2,210-->
 
 In the Fermi-Dirac function, what happens to f(E) when E > E_F?
 ?
 f(E) -> 0, the state is essentially unoccupied
-<!--SR:!2026-11-05,1,190--> 
+<!--SR:!2026-11-07,2,190--> 
 
 In the Fermi-Dirac function, what does the graph look like when T = 0?
 ?

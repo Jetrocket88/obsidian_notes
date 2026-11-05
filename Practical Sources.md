@@ -47,14 +47,14 @@ internal resistance of the source?
 $$
 R_s = \frac{\Delta V_L}{\Delta I_L}
 $$
-<!--SR:!2026-11-05,5,230-->
+<!--SR:!2026-11-16,11,230-->
 
 What is the equation for the load voltage of an non ideal voltage source?
 ?
 $$
 V_L = V_S - I_L R_S      \\[13pt]
 $$
-<!--SR:!2026-11-05,5,230-->
+<!--SR:!2026-11-17,12,230-->
 
 
 What is the equation for the load current of an non ideal current source?
@@ -67,7 +67,7 @@ $$
 What is the main characteristic of a practical source compared to an idea source?
 ?
 Practical voltage and current sources do not provide absolutely constant values of terminal voltage or current.
-<!--SR:!2026-11-05,5,230-->
+<!--SR:!2026-11-18,13,230-->
 
 Why does the voltage output drop slightly of a practical voltage source when the load current increases?
 ?

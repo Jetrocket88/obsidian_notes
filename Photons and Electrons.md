@@ -34,7 +34,7 @@ p = \frac{h}{\lambda}
 $$
 Block and absorb a beam of light -> absorbing momentum
 Radiation exerts a force -> radiation pressure
-<!--SR:!2026-11-05,2,210-->
+<!--SR:!2026-11-06,1,190-->
 
 
 

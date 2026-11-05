@@ -57,7 +57,7 @@ What are the steps for calculating the Thevnin Equivalent circuit?
 2. Calculate the voltage produced by the remaining circuit across the open-circuited terminals of the removed element, the calculated voltage is the Thévenin voltage.
 3. Zero voltage and current sources and calculate Thévenin resistance looking back into open-circuited terminals.
 4. The Thévenin equivalent circuit is then added to removed element to calculate it's operating conditions.
-<!--SR:!2026-11-05,5,230-->
+<!--SR:!2026-11-16,11,230-->
 
 
 What is Thevnin's Theorem?
